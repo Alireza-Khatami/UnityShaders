@@ -28,7 +28,7 @@ To use the Phong Improved Shader in your Unity project:
 
 ## Examples
 
-You can find example scenes demonstrating the usage of the Phong Improved Shader with Cube Mapping in the "Examples" folder of this repository.
+You can find example scenes demonstrating the usage of the Phong Improved Shader with Cube Mapping in the "Scene" folder of this repository.
 
 ## Contributing
 
