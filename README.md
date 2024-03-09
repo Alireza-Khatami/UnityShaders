@@ -9,7 +9,7 @@ The Phong Improved Shader is an unlit shader designed to simulate the Phong refl
 
 ![Screenshot (2782)](https://github.com/Alireza-Khatami/UnityShaders/assets/78407392/dceb2dc5-36a7-4f05-9ee3-2872ede2ad62)
 
-## Notice: The main PHONG SHADER located in Assets/ shaders/ Phong ImprovedShader.shader [ you can ignore the rest]
+## Notice: The main PHONG SHADER is located in Assets/ shaders/ Phong ImprovedShader.shader [ you can ignore the rest]
 ## Parameters
 
 - **_MainTex**: Texture used for diffuse color.
