@@ -7,7 +7,8 @@ This repository contains an improved Phong shader implemented in Unity's High-Le
 
 The Phong Improved Shader is an unlit shader designed to simulate the Phong reflection model, which consists of ambient, diffuse, and specular lighting components. The shader calculates the lighting interaction between a surface and a light source to create realistic shading effects. Additionally, cube mapping is incorporated to achieve accurate reflections based on the surface's normal and view direction.
 
-![image](https://github.com/Alireza-Khatami/UnityShaders/assets/78407392/89ff6b59-cc8d-43ab-ac32-1078d4d3fdea)
+![Screenshot (2782)](https://github.com/Alireza-Khatami/UnityShaders/assets/78407392/dceb2dc5-36a7-4f05-9ee3-2872ede2ad62)
+
 
 ## Parameters
 
