@@ -2,7 +2,7 @@
 # Phong Improved Shader with Cube Mapping
 
 This repository contains an improved Phong shader implemented in Unity's High-Level Shader Language (HLSL) with added cube mapping for realistic reflections. This shader can be used to render materials with realistic lighting effects, including diffuse, specular, and reflective components.
-
+This is done through the help of the https://www.youtube.com/watch?v=mL8U8tIiRRg , on writing shader codes for the Phong model ;
 ## Overview
 
 The Phong Improved Shader is an unlit shader designed to simulate the Phong reflection model, which consists of ambient, diffuse, and specular lighting components. The shader calculates the lighting interaction between a surface and a light source to create realistic shading effects. Additionally, cube mapping is incorporated to achieve accurate reflections based on the surface's normal and view direction.
@@ -15,6 +15,7 @@ The Phong Improved Shader is an unlit shader designed to simulate the Phong refl
 - **_MainTex**: Texture used for diffuse color.
 - **_Gloss**: Glossiness factor controlling the intensity of specular highlights.
 - **_CubeMap**: Cube map texture used for environment reflections.
+- **- _Fresnel : fresnel factor controlling the amount of fresnel( highlighted outlines) 
 
 ## Usage
 
